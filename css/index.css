@@ -29,10 +29,15 @@ h1 {
     font-style: oblique;
 }
 
-ul {
+#Experience ul{
     list-style: square;
 }
 
-a {
+#Connect a {
     color: forestgreen;
+}
+
+.center{
+    text-align: center;
+    justify-content: center;
 }
