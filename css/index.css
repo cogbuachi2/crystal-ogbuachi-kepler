@@ -29,7 +29,7 @@ h1 {
     font-style: oblique;
 }
 
-#Experience ul{
+#Experience ul {
     list-style: square;
 }
 
@@ -37,7 +37,23 @@ h1 {
     color: forestgreen;
 }
 
-.center{
-    text-align: center;
+.center {
+    text-align:center;
     justify-content: center;
 }
+
+.nav-link {
+    text-align:center;
+    justify-content: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column; 
+}
+
+.flex-item {
+    padding: 50px;
+    text-align: center;
+}
+
