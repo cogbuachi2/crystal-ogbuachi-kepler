@@ -29,10 +29,30 @@ h1 {
     font-style: oblique;
 }
 
-ul {
+#Experience ul {
     list-style: square;
 }
 
-a {
+#Connect a {
     color: forestgreen;
+}
+
+.center {
+    text-align:center;
+    justify-content: center;
+}
+
+.nav-link {
+    text-align:center;
+    justify-content: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column; 
+}
+
+.flex-item {
+    padding: 50px;
+    text-align: center;
 }
