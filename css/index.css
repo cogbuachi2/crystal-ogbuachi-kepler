@@ -1,0 +1,43 @@
+body {
+    background-color: skyblue;
+    color: white ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section {
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+
+header {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    font-size: x-large;
+    font-weight: 300;
+    color: palevioletred;
+}
+
+h1 {
+    text-align: center;
+    font-style: oblique;
+}
+
+#Experience ul{
+    list-style: square;
+}
+
+#Connect a {
+    color: forestgreen;
+}
+
+.center{
+    text-align: center;
+    justify-content: center;
+}
